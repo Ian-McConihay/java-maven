@@ -10,11 +10,5 @@ public class Maven {
 		System.out.println("Is your input a number: " + StringUtils.isNumeric(input) + "\n");
 		System.out.println("Input length: " + StringUtils.length(input) + "\n");
 		System.out.println("Contains whitespace: " + StringUtils.containsWhitespace(input) + "\n");
-
-
-
-
-
 	}
 }
-
